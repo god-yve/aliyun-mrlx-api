@@ -34,7 +34,7 @@ class Sample:
         region_id     = 'cn-shanghai'
         access_key    = 'LTAI5t89ZhkMmZYgeHjFL5ei'
         secret_key    = 'YtcskxxcACDmU1qshwqdoOSYo2sisJ'
-        instance_name = '广告-game-*'
+        instance_name = 'mytest*'
         index_regex   = '.*-([0-9]+)$'
         page_number   = 1
         page_size     = 5
